@@ -1,2 +1,2 @@
 # algos
-Algorithm solutions and playgroud
+Algorithm solutions and playground
